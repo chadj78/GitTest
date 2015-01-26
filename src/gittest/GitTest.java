@@ -20,6 +20,8 @@ public class GitTest {
         System.out.println("Hi!!");
         System.out.println("Hi!!");
         System.out.println("Hi!!");
+        // Added from different computer for test
+        System.out.println("ABCDEFG!!");
     }
     
 }
